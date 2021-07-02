@@ -1,0 +1,40 @@
+.content{
+	position: relative;
+	height: 100vh;
+	background-image: url("../img/bg2.jpg");
+}
+
+.flight-table{
+	position: absolute;
+	top: 20%;
+	left:-55%;
+	right:0;
+	background-color: rgb(255, 246, 246);
+	 min-height: 500px;
+	width: 500px;
+	opacity: 90%;
+}
+
+header{
+	display: flex;
+	padding: 30px 40px 0 40px;
+}
+
+header h1{
+	color:rgb(15, 14, 14);
+}
+
+.form-spacing{
+	padding: 40px;
+	width: 100%;
+}
+
+.trip-type{
+	width: 350px;
+	margin: 0 0;
+}
+
+label{
+	font-weight: 500;
+	color: rgb(29, 28, 28);
+}
